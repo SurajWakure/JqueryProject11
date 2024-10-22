@@ -4,3 +4,5 @@ $("#ripple").ripples({
     perturbance:0.05
 
   });
+
+  //comment added int the js 
