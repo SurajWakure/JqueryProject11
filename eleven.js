@@ -6,3 +6,4 @@ $("#ripple").ripples({
   });
 
   //comment added int the js 
+  //change another thing 
